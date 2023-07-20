@@ -5,7 +5,7 @@ This is a Single Page Application that generates personalized meditation texts b
 
 ## Usage
 
-1. Access the application in your web browser at [https://64b8fa7a88e573591aac5c3e--voluble-rabanadas-36dbd8.netlify.app/](https://64b8fa7a88e573591aac5c3e--voluble-rabanadas-36dbd8.netlify.app/).
+1. Access the application in your web browser at [https://64b956100f5fff185f55f407--ornate-gecko-cad8cf.netlify.app/](https://64b956100f5fff185f55f407--ornate-gecko-cad8cf.netlify.app/).
 
 2. In the application, there are three tabs for the user to enter their details:
    - Feeling: Enter how you are feeling right now.
@@ -32,6 +32,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Links
 
-- [Frontend](https://64b8fa7a88e573591aac5c3e--voluble-rabanadas-36dbd8.netlify.app/)
-- [Backend API](https://glowing-spectacled-pyrite.glitch.me/api/generate-meditation)
+- [Frontend](https://64b956100f5fff185f55f407--ornate-gecko-cad8cf.netlify.app/)
+- [Backend API](https://glowing-spectacled-pyrite.glitch.me/)
 - [GitHub Repository](https://github.com/1Gireesh/assainment/)
