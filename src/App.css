@@ -1,0 +1,29 @@
+
+.home{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 50px;
+}
+
+.panel{
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.panel label{
+  margin: 20px;
+}
+.para {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  justify-content: center;
+  align-items: center;
+}
+.para p{
+  width: 80%;
+  font-size: larger;
+}
